@@ -32,7 +32,7 @@ Edifice Flipbook Online
 
 📚 Currently Exploring
 
-Full-stack development with Laravel + Supabase
+Full-stack development with React + Supabase
 
 AI-assisted system development
 
